@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tunghpp1235 
-Hannstcott
-/
-SunshineTr
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Security
-Insights
-SunshineTr/ViettelUDP
-@Hannstcott
-Hannstcott Create ViettelUDP
-Latest commit 1ff1521 on Dec 17, 2021
- History
- 1 contributor
-321 lines (293 sloc)  22.7 KB
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD VIETTEL TV
 http://116.106.128.192:4022/udp/239.12.251.207:5000
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/2.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 HD VIETTEL TV
