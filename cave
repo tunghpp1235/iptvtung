@@ -1,0 +1,59 @@
+#EXTM3U url-tvg="http://gg.gg/epgvn03,http://15.235.142.95:9981/xmltv/channels,http://103.125.191.32:9981/xmltv/channels" deinterlace=1
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 1
+http://103.125.191.32:8000/live1
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
+http://103.125.191.32:8000/live2
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 3
+http://103.125.191.32:8000/live3
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 4K
+http://103.125.191.32:8000/4KUHD
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://vthanh.xyz/ic/1.png",VTV1 HD
+http://103.125.191.32:8000/vtv1
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://vthanh.xyz/ic/3.png",VTV3 HD
+http://103.125.191.32:8000/vtv3
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://vthanh.xyz/ic/5.png",VTV5 HD
+http://103.125.191.32:8000/vtv5
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv6hd" tvg-logo="https://vthanh.xyz/ic/8.png",VTV6 HD
+http://103.125.191.32:8000/vtv6
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv1" tvg-logo="https://vthanh.xyz/ic/49.png",HTV1 SD
+http://103.125.191.32:8000/htv1
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htvkey" tvg-logo="https://vthanh.xyz/ic/52.png",HTV Key SD
+http://103.125.191.32:8000/htvkey
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htvthethaohd" tvg-logo="https://vthanh.xyz/ic/56.png",HTV Thể thao HD
+http://103.125.191.32:8000/htvtt
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="quangninh3" tvg-logo="https://vthanh.xyz/ic/169.png",QTV3 Quảng Ninh HD
+http://103.125.191.32:8000/qtv3
+#EXTINF:-1 group-title="TVHOUSE" tvg-logo="https://cdn.hqth.me/tvpub.png",TVPub
+
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="b1bc3e07ba297d0e9e15de958ed28bee",Sky Sport 1 HD
+http://103.125.191.32:8081/sky1
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="b1bc3e07ba297d0e9e15de958ed28bee",Sky Sport 1 HD
+http://103.125.191.32:9981/stream/channelid/973217606?profile=cvace
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="46b921c080a23217e637e6146f1214c1",Sky Sport 2 HD
+http://103.125.191.32:8081/sky2
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="46b921c080a23217e637e6146f1214c1",Sky Sport 2 HD
+http://103.125.191.32:9981/stream/channelid/732250295?profile=cvace
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="",Sky Sport F1 HD
+
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="9a92e7b6bada23572b6ee877d62724da",Sky Sport Austria HD
+http://103.125.191.32:9981/stream/channelid/921146010?profile=cvace
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="249a61825ee7fd94fd4beedff8dd8a89",Sky Sport Bundesliga HD
+http://103.125.191.32:9981/stream/channelid/39950884?profile=cvace
+#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="c1635c1a3bafe66d83ab524130ced507",DAZN 2
+http://15.235.142.95:9981/stream/channelid/391948202?profile=cvace
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-id="b286040d084106d2732b1c9ecfaae722",Canal+ Sport 1 HD
+http://15.235.142.95:9981/stream/channelid/238876432?profile=cvace
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-id="f17298549d47b9fb33da0317bd110521",Canal+ Sport 2 HD
+http://15.235.142.95:9981/stream/channelid/871669459?profile=cvace
+#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports Ukraine HD
+http://15.235.142.95:9981/stream/channelid/2028522359?profile=cvace
+#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports + Ukraine HD
+http://15.235.142.95:9981/stream/channelid/1921362151?profile=cvace
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="9a7970b063bfafd76299829c899c02ff",Маtch ТV
+http://15.235.142.95:9981/stream/channelid/514639248?profile=cvace
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="7e30e6455c21b99bac801014cefa5a5a",Маtch Futbol 1
+http://15.235.142.95:9981/stream/channelid/332220096?profile=cvace
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="54b574e1d51efef35adab8c7ff76faaa",Маtch Futbol 2
+http://15.235.142.95:9981/stream/channelid/1419364135?profile=cvace
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="e31038be67c879c04744a5afcd25b8ea",Маtch Futbol 3
+http://15.235.142.95:9981/stream/channelid/1276261572?profile=cvace
